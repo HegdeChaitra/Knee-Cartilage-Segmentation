@@ -1,4 +1,4 @@
-# knee-cartilage-segmentation
+# Knee-Cartilage-Segmentation
 The project covers various deep learning and traditional machine learning models to automate the segmentation of knee cartilages using the diffusion weighted MRIs.
 
 The best deep learning model performs at the human-expert level. 
